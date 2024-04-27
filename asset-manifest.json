@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MAIL-BOX-CLIENT/static/css/main.c47b8f07.css",
+    "main.js": "/MAIL-BOX-CLIENT/static/js/main.e13eb84e.js",
+    "static/media/manProfile.png": "/MAIL-BOX-CLIENT/static/media/manProfile.e22f2464dbc602057f9a.png",
+    "static/media/jpg": "/MAIL-BOX-CLIENT/static/media/5dfa120bbfcf78c194348826b4dcee33.a0c52900564fecfabaa5.jpg",
+    "static/media/profile-background-iconpng.png": "/MAIL-BOX-CLIENT/static/media/profile-background-iconpng.41e90b3c20cfabd0a740.png",
+    "index.html": "/MAIL-BOX-CLIENT/index.html",
+    "main.c47b8f07.css.map": "/MAIL-BOX-CLIENT/static/css/main.c47b8f07.css.map",
+    "main.e13eb84e.js.map": "/MAIL-BOX-CLIENT/static/js/main.e13eb84e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47b8f07.css",
+    "static/js/main.e13eb84e.js"
+  ]
+}
